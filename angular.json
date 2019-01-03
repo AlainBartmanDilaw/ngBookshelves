@@ -45,6 +45,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/disp/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
