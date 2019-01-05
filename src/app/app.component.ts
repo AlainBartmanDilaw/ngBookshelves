@@ -17,6 +17,7 @@ export class AppComponent {
       messagingSenderId: "104603464083"
     };
     firebase.initializeApp(config);
+    
 
   }
 }
